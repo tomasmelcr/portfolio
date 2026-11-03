@@ -4,12 +4,12 @@ Jednoduché responzivní portfolio Tomáše Nováka vytvořené v HTML a CSS. Ob
 
 ## Soubory
 
-- `portfolio.html` – hlavní stránka portfolia.
+- `index.html` – hlavní stránka, která se zobrazí při otevření webu.
+- `portfolio.html` – samostatná kopie stránky portfolia.
 - `style.css` – styly a responzivní rozvržení.
-- `index.html` – přesměrování na hlavní stránku portfolia.
 
 ## Spuštění
 
-Není potřeba nic instalovat ani sestavovat. Otevřete `portfolio.html` v prohlížeči, případně otevřete `index.html`, který vás přesměruje na hlavní stránku.
+Není potřeba nic instalovat ani sestavovat. Otevřete `index.html` nebo `portfolio.html` v prohlížeči.
 
-Web používá písma DM Sans a Space Grotesk z Google Fonts. Pro jejich načtení je potřeba připojení k internetu.
+Stránka načítá styly pouze z lokálního souboru `style.css` a používá systémová písma zařízení.
